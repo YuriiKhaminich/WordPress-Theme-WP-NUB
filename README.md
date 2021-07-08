@@ -1,5 +1,5 @@
-# personal-portfolio
-My personal portfolio - first repository
+# WordPress Theme WP NUB
+WordPress Theme WP NUB - the first attempt to create a WordPress theme
 
 ## What is inside
 - WordPress Theme
